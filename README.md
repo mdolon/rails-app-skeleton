@@ -8,3 +8,4 @@ This is just a simple starting point for a basic Rails app. It includes:
 
 TODO:
 - Add Devise
+- Add email support (likely SendGrid)
